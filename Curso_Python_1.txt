@@ -1,0 +1,9 @@
+crear ambiente conda
+ conda create -n nombre python=3.8
+
+activar entorno conda
+ conda activate nombre
+
+desactivar entorno conda
+ conda deactivate
+
